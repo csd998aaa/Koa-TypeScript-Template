@@ -1,5 +1,5 @@
 # Koa-TypeScript-Template
-基于 TypeScript + Node + Koa + MySQL 生成的服务端脚手架生成的服务端脚手架
+基于 TypeScript + Node + Koa + MySQL 生成的服务端脚手架
 
 ## 主要依赖
 ```
