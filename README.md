@@ -1,5 +1,5 @@
 # Koa-TypeScript-Template
-基于 TypeScript + Node + Koa + MySQL 生成的服务端脚手架
+基于 TypeScript + Node + Koa + MySQL 生成的服务端脚手架，默认安装以下依赖，可自行在package.json下删除。
 
 ## 主要依赖
 ```
